@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\unreal_project_t1\\intermediate\\build\\win64\\unrealeditor\\inc\\t1\\uht\\t1.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\unreal_project_t1\\intermediate\\build\\win64\\x64\\t1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\unreal_project_t1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\t1\\definitions.t1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\T1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\T1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\T1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\T1">
+      <UniqueIdentifier>{D8B6EC68-27F3-3BF7-8A89-753C0588EE40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\T1\T1.Build.cs">
+      <Filter>Source\T1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\T1\T1.cpp">
+      <Filter>Source\T1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T1\T1.h">
+      <Filter>Source\T1</Filter>
+    </ClInclude>
+    <Filter Include="Source\T1\Private">
+      <UniqueIdentifier>{1AD513AD-3950-318A-A2D8-4555B6720FE7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\T1\Private\MeshGenerator.cpp">
+      <Filter>Source\T1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\T1\Private\RWCsvFile.cpp">
+      <Filter>Source\T1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\T1\Public">
+      <UniqueIdentifier>{6F52D638-4604-345E-97D3-E47D86DA19D7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\T1\Public\MeshGenerator.h">
+      <Filter>Source\T1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\T1\Public\RWCsvFile.h">
+      <Filter>Source\T1\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

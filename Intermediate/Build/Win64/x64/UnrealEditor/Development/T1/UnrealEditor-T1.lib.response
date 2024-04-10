@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-T1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\T1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\RWCsvFile.gen.cpp.obj"
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1.init.gen.cpp.obj"
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\T1.cpp.obj"
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\RWCsvFile.cpp.obj"
+"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\Default.rc2.res"
+/OUT:"D:\unreal projects\UnrealProjectT2\Intermediate\Build\Win64\x64\UnrealEditor\Development\T1\UnrealEditor-T1.lib"

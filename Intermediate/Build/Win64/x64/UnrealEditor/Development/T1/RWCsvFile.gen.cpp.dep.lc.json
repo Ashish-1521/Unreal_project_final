@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\unrealprojectt2\\intermediate\\build\\win64\\unrealeditor\\inc\\t1\\uht\\rwcsvfile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\unrealprojectt2\\intermediate\\build\\win64\\x64\\t1editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\unrealprojectt2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\t1\\definitions.t1.h",
+            "d:\\unreal projects\\unrealprojectt2\\source\\t1\\public\\rwcsvfile.h",
+            "d:\\unreal projects\\unrealprojectt2\\intermediate\\build\\win64\\unrealeditor\\inc\\t1\\uht\\rwcsvfile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
